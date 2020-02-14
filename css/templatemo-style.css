@@ -14,7 +14,8 @@ https://templatemo.com/tm-507-victory
 
 body {
 	overflow-x: hidden;
-	background-color: #fff;
+	background-color: #fdfd96 ;  
+
 }
 
 ul {
@@ -27,6 +28,7 @@ p {
 	font-size: 13px;
 	line-height: 24px;
 }
+
 
 .primary-button a {
 	display: inline-block;
@@ -74,7 +76,7 @@ p {
     padding: 0;
     z-index: 10000;
     transition: all 0.2s ease-in-out;
-    background-color: #eaf0ff;  
+    background-color: #fdfd96 ;  
     text-align: center;
 }
 
@@ -194,7 +196,7 @@ p {
 }
 
 section.our-blog {
-	background-color: #f2f6ff;
+	background-color: #fdfd96 ;
 	padding: 100px 0px 70px 0px;
 }
 
@@ -365,7 +367,7 @@ footer ul li i {
 }
 
 footer ul li i:hover {
-	background-color: #f2745f;	
+	background-color: #fdfd96 ;	
 }
 
 
